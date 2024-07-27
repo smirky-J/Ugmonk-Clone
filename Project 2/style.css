@@ -1,0 +1,223 @@
+body{
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+.first_layer{
+    text-align: center;
+    padding: 1em;
+    margin-top: 0.7em;
+}
+.first_p{
+    font: bold 27px arial;
+    letter-spacing: 0.2em;
+    padding: 1em;
+    margin-right: 0.3em;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font: bold 20px calibri;
+    
+}
+.first_ref{
+    margin-right: 23em;
+    padding-inline: 1em;
+        
+}
+.second_ref{
+    margin-left: -2em;
+    
+}
+.l{
+    border-right:solid 2px black;
+    width: 20px;
+    padding-inline: 1em;
+}
+.h{
+    border-right:solid 2px black;
+    padding-inline: 1em;
+}
+.c{
+    border-right:solid 2px black;
+    padding-inline: 1em;
+}
+.second_layer{
+    padding: 18em;
+    padding-bottom: 2em;
+    margin-top: 1em;
+    background: #00000005;
+}
+.shop{
+    margin-top: -15em;
+    color: black;
+    font: bold 18px calibri;
+    margin-left: -7em;
+    letter-spacing: 2px;
+}
+.men{
+    font: bold 14px calibri;
+    margin-top: 1em;
+    margin-left: 37em;
+    margin-bottom: 1em;
+    
+}
+.Tee{
+    font: bold 26px arial;
+}
+.third_layer{
+    background: transparent;
+    margin-left: 32em;
+    padding-top: 0.7em;
+    padding-right: 17em;
+    padding-left: 0.5em;
+    padding-bottom: 6em;
+    
+}
+img.img{
+    width: 400px;
+    margin-top: -11em;
+    margin-left: -8em;
+}
+.port{
+    font: bold 20px calibri;
+    text-align: right;
+    padding-bottom: 1em;
+    color: #808080;
+}
+#circle{
+    height: 25px;
+    width: 25px;
+    margin: 0.363em;
+    border-radius: 50%;
+    background: green;
+    margin-top: -7.8em;
+}
+#circles{
+    height: 25px;
+    width: 25px;
+    margin: 0.2em;
+    border-radius: 50%;
+    background: black;
+    margin-left: 0.16em;
+}
+.circle{
+    display: flex;
+    margin-top: -16.5em;
+    margin-left: 50.3em;
+}
+.f_circle{
+    
+}
+#big_circle{
+    height: 27px;
+    width: 27px;
+    margin: 0.2em;
+    border-radius: 50%;
+    background:none;
+    padding: 0.2em;
+    border: 1px solid black;
+    padding-top: 0;
+    padding-left: 0;
+    margin-top: -8em;
+}
+.forth_layer{
+    margin-left: 50em;
+    margin-top: -4.7em;
+}
+.sm{
+    letter-spacing: 1em;
+    background:black;
+    color: white;
+    margin-right: 0.3em;
+    margin-left: 1em;
+    padding: 0.6em;
+    font: bold 14px arial;
+    padding-left: 0.7em;
+    padding-right: 0.1em;
+    box-shadow: 0 0 5px gray;
+}
+.m{
+    margin-right: 0.5em;
+    letter-spacing: 1em;
+    background:white;
+    margin-right: 0.6em;
+    margin-left: 1em;
+    padding: 0.6em;
+    font: bold 14px arial;
+    padding-left: 0.7em;
+    padding-right: 0.1em;
+    box-shadow: 0 0 5px gray;
+}
+.new{
+    margin-right: 0.5em;
+    letter-spacing: 1em;
+    background:white;
+    margin-right: 1.3em;
+    margin-left: 1em;
+    padding: 0.6em;
+    font: bold 14px arial;
+    padding-left: 0.7em;
+    padding-right: 0.1em;
+    box-shadow: 0 0 5px gray;  
+}
+.x{
+    margin-right: 0.5em;
+    background:white;
+    margin-right: 1.3em;
+    margin-left: 0.3em;
+    padding: 0.6em;
+    font: bold 14px arial;
+    padding-left: 0.7em;
+    padding-right: 0.8em;
+    box-shadow: 0 0 5px gray; 
+}
+.xx{
+    margin-right: 0.5em;
+    background:white;
+    margin-right: 1.3em;
+    margin-left: 0.3em;
+    padding: 0.6em;
+    font: bold 14px arial;
+    padding-left: 0.7em;
+    padding-right: 0.8em;
+    box-shadow: 0 0 5px gray; 
+}
+.fifth_layer{
+    margin-top: 2em;
+    background-color: black;
+    color: white;
+    width:200px;
+    padding: 1em;
+    padding-right: 3.5em;
+    padding-left: 3.5em;
+    font-family: calibri;
+    font-weight: bold;
+    margin-left: 50em;
+    text-align: center;
+}
+.six_layer{
+    background: transparent;
+    width:270px;
+    padding: 1em;
+    font: 11px arial;
+    margin-left: 72.5em;
+    margin-top: 0.3em;
+
+}
+.seven_layer{
+    margin-left: 50em;
+    margin-top: 0.4em;
+    background: transparent;
+    width:310px;
+    padding: 0.4em;
+}
+.seven_p{
+    font: bold 13px arial;
+    word-spacing: 0.8em;
+}
+.seven_sp{
+    font: 11px arial;
+    margin-top: 0.1em;
+}
